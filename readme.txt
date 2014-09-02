@@ -35,8 +35,11 @@ Would you like to like to contribute to Builder Animation? You are more than wel
 1. Drag and drop any widget
 1. Now you can choose any animation in Setting button
 
+== Screenshots ==
+
+1. Widget Animation
+
 == Changelog ==
 
 = 1.0.0 =
 * Initial Public Release!
-
