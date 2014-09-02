@@ -2,7 +2,7 @@
 Contributors: pojo.me, KingYes, ariel.k
 Tags: pojo, animation, builder, widget
 Requires at least: 3.9
-Tested up to: 3.9
+Tested up to: 4.0.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 
@@ -12,7 +12,8 @@ The Builder Animation plugin makes it possible to animate element by setting som
 
 Please Note: This plugin is only for [Pojo Framework](http://pojo.me/?utm_source=wp-repo&utm_medium=link&utm_campaign=builder-animation) users - Pojo is a premium themes.
 
-<strong>Animations:</strong><br />
+<strong>Animations:</strong>
+
 * Fade In
 * Fade Down
 * Fade Up
